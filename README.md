@@ -10,6 +10,6 @@ In the HED parameters dataset, the column name "energy" represents the "E_{free}
 
 The calculation methods of SHARP and HED parameters are shown in the following figure.
 
-![SHARP parameters](https://github.com/wangquanba/Solar-flare-prediction-model/issues/2#issue-2496717261)
+![SHARP parameters](https://github.com/user-attachments/assets/0a38f2c7-862f-417d-8f02-318e0afa80f4)
 
 ![HED parameters](https://github.com/wangquanba/Solar-flare-prediction-model/issues/1#issue-2496705313)
