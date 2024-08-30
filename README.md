@@ -12,4 +12,4 @@ The calculation methods of SHARP and HED parameters are shown in the following f
 
 ![SHARP parameters](https://github.com/user-attachments/assets/0a38f2c7-862f-417d-8f02-318e0afa80f4)
 
-![HED parameters](https://github.com/wangquanba/Solar-flare-prediction-model/issues/1#issue-2496705313)
+![HED parameters](https://github.com/user-attachments/assets/b941cd5c-5e57-4587-8d7a-46b5f16fb578)
