@@ -6,6 +6,8 @@ Since the SHARP and HED parameters have distinct scales and units, these paramet
 
 Then the SHARP and HED datasets employed an AR-based cross-validation method to partition, with the distribution of the training, validation, and testing sets at a ratio of 60%, 20%, and 20%, respectively. This process is repeated ten times, resulting in ten cross-validation sets in both SHARP_CV and HED_CV.
 
+The solar flare prediction model used in this article can be accessed via https://drive.google.com/drive/folders/1n6fXcQdCBogKt6L0aaPFagraFcXmX0fw?usp=drive_link
+
 In the HED parameters dataset, the column name "energy" represents the "E_{free}","shear_mean" represents the "\Psi","uj_mean" represents the "J_{Z}","uhc_mean" represents the "H_{C}","GBH_MEAN" represents the "B_{h}","ALP_MEAN" represents the "\alpha".
 
 The calculation methods of SHARP and HED parameters are shown in the following figure.
